@@ -120,10 +120,4 @@ export class CategoriesFormComponent implements OnInit {
     this.route.navigateByUrl('categories');
   }
 
-
-
-
-
-
-
 }
